@@ -50,8 +50,8 @@ Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
 
 ## Research 🔎
 
-### Bayesian Hit Prediction based on Nirvana Discography and Spotify Stats
-### In-depth break down of search algorithms using PacMan Environment
+### [🎸Bayesian Hit Prediction based on Nirvana Discography and Spotify Stats🎸]
+### [🎮In-depth break down of search algorithms using PacMan Environment🎮](https://github.com/banacchini/SearchAlgorithmsBreakdown)
 
 ## Additional Skills
 
