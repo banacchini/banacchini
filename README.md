@@ -35,12 +35,12 @@ Childhood word game with GUI developed with Python and PyQt5 for the Script Lang
 ### [ParisVelibStationMap](https://github.com/banacchini/ParisVelibStationMap)
 Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
 
-###$ Features
+#### Features
 - Fetches live data for Velib stations from the official API
 - Displays station locations with available bikes and docks on an interactive map
 - Uses **Folium** and **Branca** to create beautiful visual markers for each station
 
-###$ Libraries Used
+#### Libraries Used
 - **Requests**: To fetch station information and status from the Velib open data API
 - **JSON**: For parsing the station data
 - **Folium**: To create interactive maps with station markers
@@ -48,7 +48,7 @@ Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
 
 
 
-## Research
+## Research 🔎
 
 ### Bayesian Hit Prediction based on Nirvana Discography and Spotify Stats
 ### In-depth break down of search algorithms using PacMan Environment
