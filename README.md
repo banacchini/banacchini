@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hi, I'm **Dominik**, a passionate Computer Science student with a focus on software development and data science. I'm actively working on a variety of projects, ranging from group collaborations to individual endeavors. Here, you'll find a collection of my work, showcasing my skills and interests in programming, web development, game design, and data science.
+Hi, I'm **Dominik**, a Computer Science student with a focus on software development and data science. I'm actively working on a variety of projects, ranging from group collaborations to individual endeavors. Here, you'll find a collection of my work, showcasing my skills and interests in programming, web development, game design, and data science. Aside programming I put my energy into music 🎸🎸🎸.
 
 ## Group Projects 🛠️
 
@@ -29,8 +29,29 @@ Childhood word game with GUI developed with Python and PyQt5 for the Script Lang
 #### Libraries
 - **PyQt5**: For building the graphical user interface (GUI)
 - **Pandas**: For data management
-- **Requests**, **BeautifulSoup** for web scrapping of valid words lists
-- **PyTest** for automated features testing
+- **Requests**, **BeautifulSoup**: For web scrapping of valid words lists
+- **PyTest**: For automated features testing
+
+### [ParisVelibStationMap](https://github.com/banacchini/ParisVelibStationMap)
+Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
+
+###$ Features
+- Fetches live data for Velib stations from the official API
+- Displays station locations with available bikes and docks on an interactive map
+- Uses **Folium** and **Branca** to create beautiful visual markers for each station
+
+###$ Libraries Used
+- **Requests**: To fetch station information and status from the Velib open data API
+- **JSON**: For parsing the station data
+- **Folium**: To create interactive maps with station markers
+- **Branca**: For custom HTML popups showing station details
+
+
+
+## Research
+
+### Bayesian Hit Prediction based on Nirvana Discography and Spotify Stats
+### In-depth break down of search algorithms using PacMan Environment
 
 ## Additional Skills
 
