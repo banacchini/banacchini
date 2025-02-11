@@ -4,7 +4,7 @@ Hi, I'm **Dominik**, a Computer Science student with a focus on software develop
 
 ## Group Projects 🛠️
 
-### [🌍 PlanetThere 📆](https://github.com/banacchini/PlanetThere)
+### [🌍 PlanetThere 📆](https://github.com/Bouchene-Mehdi/PlanetThere)
 A website for event management where users can manage and attend events developed for the WEB Development Project course at ISEP Paris. Key features include:
 - User authentication
 - Event creation and management
