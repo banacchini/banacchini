@@ -58,7 +58,7 @@ Breakdown and In-depth analysis of different search algorithms using a modified 
 
 ## Additional Skills
 
-- **Languages**: Python, Java, C++, C#, HTML, CSS, PHP, JavaScript, SQL, R
+- **Languages**: Python, Java, C++, HTML, CSS, PHP, JavaScript, SQL, R, 
 - **Frameworks & Tools**: NumPy, Pandas, JavaFX, MVC, Unity, XAMPP, MySQL
 - **Areas of Interest**: Data science, Web development, Game design, AI-driven systems, Music
 
