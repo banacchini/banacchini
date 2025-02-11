@@ -4,21 +4,21 @@ Hi, I'm **Dominik**, a Computer Science student with a focus on software develop
 
 ## Group Projects 🛠️
 
-### [PlanetThere](https://github.com/banacchini/PlanetThere)
+### [🌍 PlanetThere 📆](https://github.com/banacchini/PlanetThere)
 A website for event management where users can manage and attend events developed for the WEB Development Project course at ISEP Paris. Key features include:
 - User authentication
 - Event creation and management
 - Notifications for upcoming events
 - Built with **PHP** and **MySQL**
 
-### [Concrete Jumple](https://github.com/kjanus03/concrete-jumple)
+### [🐵 Concrete Jumple 🎮](https://github.com/kjanus03/concrete-jumple)
 A platformer speedruning game with custom graphics and soundtrack developed for the Software Engineering course at ISEP Paris.
 - Built using **JavaFX** and **MongoDB**
 - Various features such as: **Randomly Generated Levels**, **Chasing Enemies**, **Buffs** and **HighScores**
 
 ## Solo Projects 🚀
 
-### [Alphamaniac](https://github.com/banacchini/Alphamaniac)
+### [🔤 Alphamaniac 🎮](https://github.com/banacchini/Alphamaniac)
 Childhood word game with GUI developed with Python and PyQt5 for the Script Languages course at Wroclaw University of Science and Technology.
 
 #### Features
@@ -32,7 +32,7 @@ Childhood word game with GUI developed with Python and PyQt5 for the Script Lang
 - **Requests**, **BeautifulSoup**: For web scrapping of valid words lists
 - **PyTest**: For automated features testing
 
-### [ParisVelibStationMap](https://github.com/banacchini/ParisVelibStationMap)
+### [🚴‍♀️ ParisVelibStationMap 🗺](https://github.com/banacchini/ParisVelibStationMap)
 Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
 
 #### Features
