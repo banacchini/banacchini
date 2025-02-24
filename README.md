@@ -10,6 +10,7 @@ Have you ever wondered how do your seasons sound like? Discover the patterns beh
 - Discovering Seasonal Artists and Displaying Them
 - Displaying Monthly Distribution of Streams for an Artist
 
+
 ## Group Projects 👨‍👩‍👧‍👦
 
 ### [🌍 PlanetThere 📆](https://github.com/Bouchene-Mehdi/PlanetThere)
@@ -23,6 +24,14 @@ A website for event management where users can manage and attend events develope
 A platformer speedruning game with custom graphics and soundtrack developed for the Software Engineering course at ISEP Paris.
 - Built using **JavaFX** and **MongoDB**
 - Various features such as: **Randomly Generated Levels**, **Chasing Enemies**, **Buffs** and **HighScores**
+
+### [🚇 MAD-RID 🎮](https://github.com/itziart/MAD-RID)
+Isometric 2D Puzzle Game made using Unity. Development by me 🤓, Design and Art by [🎨 itziart](https://www.artstation.com/itziart). The other passengers are blocking your way out! Fulfill their needs by interacting with them and leave the train. Includes:
+- Player-NPC Interactions
+- Items-Items / Items-NPC Interactions
+- Isometric 2D View
+- Creative and Fun Level Design!
+
 
 ## Solo Projects 🚀
 
@@ -53,7 +62,6 @@ Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
 - **JSON**: For parsing the station data
 - **Folium**: To create interactive maps with station markers
 - **Branca**: For custom HTML popups showing station details
-
 
 
 ## Research 🔎
