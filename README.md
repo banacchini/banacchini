@@ -2,7 +2,15 @@
 
 Hi, I'm **Dominik**, a Computer Science student with a focus on software development and data science. I'm actively working on a variety of projects, ranging from group collaborations to individual endeavors. Here, you'll find a collection of my work, showcasing my skills and interests in programming, web development, game design, and data science. Aside programming I put my energy into music 🎸🎸🎸.
 
-## Group Projects 🛠️
+## Under Construction 🛠️
+
+### [🎧 SeasonifyFM 📊](https://github.com/banacchini/SeasonifyFM)
+Have you ever wondered how do your seasons sound like? Discover the patterns behind your listening habits and see who do you listen to in each of the seasons! Includes:
+-Fetching and analyzing Last.fm streaming history data
+-Discovering Seasonal Artists and Displaying Them
+-Displaying Monthly Distribution of Streams for an Artist
+
+## Group Projects 👨‍👩‍👧‍👦
 
 ### [🌍 PlanetThere 📆](https://github.com/Bouchene-Mehdi/PlanetThere)
 A website for event management where users can manage and attend events developed for the WEB Development Project course at ISEP Paris. Key features include:
