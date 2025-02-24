@@ -5,7 +5,7 @@ Hi, I'm **Dominik**, a Computer Science student with a focus on software develop
 ## Under Construction 🛠️
 
 ### [🎧 SeasonifyFM 📊](https://github.com/banacchini/SeasonifyFM)
-Have you ever wondered how do your seasons sound like? Discover the patterns behind your listening habits and see who do you listen to in each of the seasons! Includes:
+**Flask** Web Application for Last.fm Streaming History Data Visualization. Have you ever wondered how do your seasons sound like? Discover the patterns behind your listening habits and see who do you listen to in each of the seasons! Includes:
 - Fetching and analyzing Last.fm streaming history data
 - Discovering Seasonal Artists and Displaying Them
 - Displaying Monthly Distribution of Streams for an Artist
