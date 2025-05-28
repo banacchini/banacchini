@@ -10,6 +10,21 @@ Hi, I'm **Dominik**, a Computer Science student with a focus on software develop
 - Discovering Seasonal Artists and Displaying Them
 - Displaying Monthly Distribution of Streams for an Artist
 
+### [♠️ Cheat Poker Game 🎮](https://github.com/w-makowski/cheat-poker-app)
+An online multiplayer card game of bluffing and poker hand recognition. Players take turns declaring poker hands or calling bluffs. Lose a round, get an extra card—reach 7 cards and you’re out. Last player standing wins. Built using **Typescript**, **React** and **Vite** for the Advanced Web Technologies at Wrocław University of Science and Technology.
+- Objective: Avoid collecting cards by outsmarting opponents with strategic bluffs and calls.
+
+## Research 🔎
+
+### [🎸 Bayesian Hit Prediction based on Nirvana Discography and Spotify Stats 🎸](https://github.com/banacchini/NirvanaHitPrediction)
+What makes a song a hit? Prediction of a song's hit status based on Bayesian Logistic Regression Model and Nirvana's discography. Study made for the Bayesian Data Analysis Class at UC3M Madrid.
+
+### [🎮 In-depth break down of search algorithms using Pac-Man Environment 🎮](https://github.com/banacchini/SearchAlgorithmsBreakdown)
+Breakdown and In-depth analysis of different search algorithms using a modified version of the Pacman Environment provided by UC Berkeley. Study made for the AI Class at UC3M Madrid.
+
+### [✈️ Ryanair Take-Off Weight Regression 📈](https://github.com/banacchini/ryanairTakeOffWeightRegression)
+A machine learning project focused on predicting the take-off weight of Ryanair flights using real operational data. The workflow covers data cleaning, feature engineering, and model selection, comparing linear and tree-based regression models. CatBoost Regressor was selected as the final model for its strong performance and native handling of categorical features. The project emphasizes reproducibility, robust validation, and interpretable feature importance analysis. Developed as part of the Ryanair Data Science Internship recruitment process.
+
 
 ## Group Projects 👨‍👩‍👧‍👦
 
@@ -62,15 +77,6 @@ Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
 - **JSON**: For parsing the station data
 - **Folium**: To create interactive maps with station markers
 - **Branca**: For custom HTML popups showing station details
-
-
-## Research 🔎
-
-### [🎸 Bayesian Hit Prediction based on Nirvana Discography and Spotify Stats 🎸](https://github.com/banacchini/NirvanaHitPrediction)
-What makes a song a hit? Prediction of a song's hit status based on Bayesian Logistic Regression Model and Nirvana's discography. Study made for the Bayesian Data Analysis Class at UC3M Madrid.
-
-### [🎮 In-depth break down of search algorithms using Pac-Man Environment 🎮](https://github.com/banacchini/SearchAlgorithmsBreakdown)
-Breakdown and In-depth analysis of different search algorithms using a modified version of the Pacman Environment provided by UC Berkeley. Study made for the AI Class at UC3M Madrid.
 
 ## Additional Skills
 
