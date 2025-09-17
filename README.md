@@ -4,11 +4,11 @@ Hi, I'm **Dominik**, a Computer Science student with a focus on software develop
 
 ## Under Construction 🛠️
 
-### [🎧 SeasonifyFM 📊](https://github.com/banacchini/SeasonifyFM)
-**Flask** Web Application for Last.fm Streaming History Data Visualization. Have you ever wondered how do your seasons sound like? Discover the patterns behind your listening habits and see who do you listen to in each of the seasons! Includes:
-- Fetching and analyzing Last.fm streaming history data
-- Discovering Seasonal Artists and Displaying Them
-- Displaying Monthly Distribution of Streams for an Artist
+### [🔎 AirPPM Hackathon 💨](https://github.com/banacchini/air-ppm-hackathon)
+International Hackathon (https://www.airppm.org) hosted in Kitakyushu, Japan. The goal is to build the best machine learning model to predict the air quality in Krakow, Poland based on weather stats. Our teams solution resolves around following steps.
+-EDA and Weather Data Preprocessing + missing value imputation algorithms
+-Tree-Based Models (XGBoost, Catboost)
+-Neural Networks + Time Series Models (Prophet by Meta)
 
 ### [♠️ Cheat Poker Game 🎮](https://github.com/w-makowski/cheat-poker-app)
 An online multiplayer card game of bluffing and poker hand recognition. Players take turns declaring poker hands or calling bluffs. Lose a round, get an extra card—reach 7 cards and you’re out. Last player standing wins. Built using **Typescript**, **React** and **Vite** for the Advanced Web Technologies at Wrocław University of Science and Technology.
@@ -64,20 +64,12 @@ Childhood word game with GUI developed with Python and PyQt5 for the Script Lang
 - **Requests**, **BeautifulSoup**: For web scrapping of valid words lists
 - **PyTest**: For automated features testing
 
-### [🚴‍♀️ ParisVelibStationMap 🗺](https://github.com/banacchini/ParisVelibStationMap)
-Python Data Visualisation for live Velib Bike Sharing System Stations in Paris.
-
-#### Features
-- Fetches live data for Velib stations from the official API
-- Displays station locations with available bikes and docks on an interactive map
-- Uses **Folium** and **Branca** to create beautiful visual markers for each station
-
-#### Libraries Used
-- **Requests**: To fetch station information and status from the Velib open data API
-- **JSON**: For parsing the station data
-- **Folium**: To create interactive maps with station markers
-- **Branca**: For custom HTML popups showing station details
-
+### [🎧 SeasonifyFM 📊](https://github.com/banacchini/SeasonifyFM)
+**Flask** Web Application for Last.fm Streaming History Data Visualization. Have you ever wondered how do your seasons sound like? Discover the patterns behind your listening habits and see who do you listen to in each of the seasons! Includes:
+- Fetching and analyzing Last.fm streaming history data
+- Discovering Seasonal Artists and Displaying Them
+- Displaying Monthly Distribution of Streams for an Artist
+- 
 ## Additional Skills
 
 - **Languages**: Python, Java, C++, HTML, CSS, PHP, JavaScript, SQL, R, 
