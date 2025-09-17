@@ -6,9 +6,9 @@ Hi, I'm **Dominik**, a Computer Science student with a focus on software develop
 
 ### [🔎 AirPPM Hackathon 💨](https://github.com/banacchini/air-ppm-hackathon)
 International Hackathon (https://www.airppm.org) hosted in Kitakyushu, Japan. The goal is to build the best machine learning model to predict the air quality in Krakow, Poland based on weather stats. Our teams solution resolves around following steps.
--EDA and Weather Data Preprocessing + missing value imputation algorithms
--Tree-Based Models (XGBoost, Catboost)
--Neural Networks + Time Series Models (Prophet by Meta)
+- EDA and Weather Data Preprocessing + missing value imputation algorithms
+- Tree-Based Models (XGBoost, Catboost)
+- Neural Networks + Time Series Models (Prophet by Meta)
 
 ### [♠️ Cheat Poker Game 🎮](https://github.com/w-makowski/cheat-poker-app)
 An online multiplayer card game of bluffing and poker hand recognition. Players take turns declaring poker hands or calling bluffs. Lose a round, get an extra card—reach 7 cards and you’re out. Last player standing wins. Built using **Typescript**, **React** and **Vite** for the Advanced Web Technologies at Wrocław University of Science and Technology.
